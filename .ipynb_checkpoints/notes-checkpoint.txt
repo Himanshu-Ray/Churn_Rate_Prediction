@@ -1,0 +1,3 @@
+python -m .nenv
+cource .venv/scripts/activate
+venv\Scripts\activate
